@@ -1,0 +1,7 @@
+Economic.single
+24
+20
+***
+Lux.Multiple
+26
+20
